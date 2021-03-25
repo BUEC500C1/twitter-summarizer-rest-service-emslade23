@@ -357,7 +357,7 @@ pudb==2019.2
 Pygments==2.6.1
 pyOpenSSL==19.0.0
 pyserial==3.4
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==19.0.0
 # requests==2.21.0
 rsa==3.4.2
