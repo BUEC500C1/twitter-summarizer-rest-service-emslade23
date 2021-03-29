@@ -354,7 +354,7 @@ pfurl==2.2.2.2
 psutil==5.7.0
 pudb==2019.2
 # pycurl==7.43.0.5
-Pygments==2.6.1
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 pyserial==3.4
 PyYAML==5.1.2
